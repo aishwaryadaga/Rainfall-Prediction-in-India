@@ -1,7 +1,3 @@
-Certainly! Here’s a detailed `README.md` template for your rainfall prediction project:
-
----
-
 # Rainfall Prediction System
 
 This project focuses on predicting rainfall in seven major cities across India. Using historical weather data, we aim to forecast both the likelihood of rain tomorrow (binary classification) and the estimated amount of rain (regression). This prediction system has potential applications in agriculture, infrastructure planning, and climate studies by helping users prepare for weather conditions based on data-driven insights.
